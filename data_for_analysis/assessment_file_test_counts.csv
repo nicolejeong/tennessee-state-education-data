@@ -1,0 +1,71 @@
+,test,subject,year,tested
+0,EOC,Algebra I,2018,18403
+1,EOC,Algebra I,2019,22250
+2,EOC,Algebra I,2021,23006
+3,EOC,Algebra I,2022,24927
+4,EOC,Algebra II,2018,15388
+5,EOC,Algebra II,2019,17782
+6,EOC,Algebra II,2021,18517
+7,EOC,Algebra II,2022,20218
+8,EOC,Biology I,2018,19220
+9,EOC,Biology I,2021,23351
+10,EOC,Biology I,2022,25810
+11,EOC,Chemistry,2018,16792
+12,EOC,English I,2018,14932
+13,EOC,English I,2019,17504
+14,EOC,English I,2021,18726
+15,EOC,English I,2022,20949
+16,EOC,English II,2018,15287
+17,EOC,English II,2019,17839
+18,EOC,English II,2021,19185
+19,EOC,English II,2022,20886
+20,EOC,English III,2018,13979
+21,EOC,Geometry,2018,17375
+22,EOC,Geometry,2019,20330
+23,EOC,Geometry,2021,21442
+24,EOC,Geometry,2022,22808
+25,EOC,Integrated Math I,2018,4573
+26,EOC,Integrated Math I,2019,5182
+27,EOC,Integrated Math I,2021,5181
+28,EOC,Integrated Math I,2022,4981
+29,EOC,Integrated Math II,2018,3665
+30,EOC,Integrated Math II,2019,4726
+31,EOC,Integrated Math II,2021,4653
+32,EOC,Integrated Math II,2022,4707
+33,EOC,Integrated Math III,2018,2578
+34,EOC,Integrated Math III,2019,3745
+35,EOC,Integrated Math III,2021,3873
+36,EOC,Integrated Math III,2022,3942
+37,EOC,US History,2018,16224
+38,EOC,US History,2019,17613
+39,EOC,US History,2021,15562
+40,EOC,US History,2022,16692
+41,MSAA,ELA,2019,38022
+42,MSAA,Math,2019,38022
+43,MSAA/Alt-Science/Social Studies,Biology I,2018,3558
+44,MSAA/Alt-Science/Social Studies,Biology I,2021,5494
+45,MSAA/Alt-Science/Social Studies,ELA,2018,32343
+46,MSAA/Alt-Science/Social Studies,ELA,2021,36995
+47,MSAA/Alt-Science/Social Studies,ELA,2022,39137
+48,MSAA/Alt-Science/Social Studies,Math,2018,32343
+49,MSAA/Alt-Science/Social Studies,Math,2021,36976
+50,MSAA/Alt-Science/Social Studies,Math,2022,39136
+51,MSAA/Alt-Science/Social Studies,Science,2018,16397
+52,MSAA/Alt-Science/Social Studies,Science,2021,32431
+53,MSAA/Alt-Science/Social Studies,Social Studies,2018,24359
+54,MSAA/Alt-Science/Social Studies,Social Studies,2021,15297
+55,TNReady,ELA,2018,83596
+56,TNReady,ELA,2019,99158
+57,TNReady,ELA,2021,103021
+58,TNReady,ELA,2022,107385
+59,TNReady,Math,2018,83225
+60,TNReady,Math,2019,98954
+61,TNReady,Math,2021,102836
+62,TNReady,Math,2022,107200
+63,TNReady,Science,2018,52956
+64,TNReady,Science,2021,102868
+65,TNReady,Science,2022,107236
+66,TNReady,Social Studies,2018,83324
+67,TNReady,Social Studies,2019,39181
+68,TNReady,Social Studies,2021,41331
+69,TNReady,Social Studies,2022,44011
