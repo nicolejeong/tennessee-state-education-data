@@ -1,4 +1,4 @@
-# tenneesee-state-education-data
+# tennessee-state-education-data
 
 ### Description
 
