@@ -1,7 +1,7 @@
 # Analysis 
 
 ### Description 
-This is where most of the code to transform and analyze the data. 
+Code to transform and analyze the data. 
 
 #### Table of Contents
 - *01_merge_files.ipynb* - pulls the data from the `raw-data-files` directory. ETL on 10 years (where available) of enrollment, ACT, state assessment, TVAS, and attendance state data. 
